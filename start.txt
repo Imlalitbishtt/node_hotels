@@ -1,0 +1,5 @@
+npm init : to initialise npm
+npm i express : install express
+npm i nodemon : to install nodemon
+under script : add file_name : nodemon file_name
+npm run file_name 
